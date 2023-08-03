@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/sitemaps/:path*",
+            "destination": "https://d2ndrnk528hu73.cloudfront.net/:path*"
+        }
+    ]
+}
